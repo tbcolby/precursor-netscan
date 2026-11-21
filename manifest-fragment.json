@@ -1,0 +1,14 @@
+{
+    "netscan": {
+        "context_name": "Net Check",
+        "menu_name": {
+            "appmenu.netscan": {
+                "en": "Net Check",
+                "en-tts": "Net Check",
+                "fr": "Net Check",
+                "ja": "Net Check",
+                "zh": "Net Check"
+            }
+        }
+    }
+}
